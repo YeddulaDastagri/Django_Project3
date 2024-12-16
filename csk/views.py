@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def Dhoni(request):
-    return HtppResponse('<h1>Captain of csk</h1>')  
+    return HtppResponse('<h1> Dhoni is a Captain of csk</h1>')  
