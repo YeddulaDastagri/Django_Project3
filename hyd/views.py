@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def Patcummins(request):
-    return HtppResponse('<h1>Captain of hyderabad </h1>')
+    return HtppResponse('<h1> Patcummins Captain of hyderabad </h1>')
